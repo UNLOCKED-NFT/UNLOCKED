@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unlocked-nft.github.io/UNLOCKED/sitemap.xml
